@@ -1,0 +1,10 @@
+﻿  Main.cpp
+Main.cpp(19): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+Main.cpp(23): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Code wird generiert.
+  1 of 331 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  KnuthMorrisPratt.vcxproj -> E:\Coding\KnuthMorrisPratt\KnuthMorrisPratt\Release\KnuthMorrisPratt.exe
+  KnuthMorrisPratt.vcxproj -> E:\Coding\KnuthMorrisPratt\KnuthMorrisPratt\Release\KnuthMorrisPratt.pdb (Full PDB)

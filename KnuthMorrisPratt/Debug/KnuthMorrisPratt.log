@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\coding\knuthmorrispratt\knuthmorrispratt\knuthmorrispratt\main.cpp(31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  KnuthMorrisPratt.vcxproj -> E:\Coding\KnuthMorrisPratt\KnuthMorrisPratt\Debug\KnuthMorrisPratt.exe
+  KnuthMorrisPratt.vcxproj -> E:\Coding\KnuthMorrisPratt\KnuthMorrisPratt\Debug\KnuthMorrisPratt.pdb (Partial PDB)
